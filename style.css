@@ -1,0 +1,38 @@
+.card1 img{
+    height: 300px;
+    width: 600px;
+
+    
+}
+.card1 h5{
+    padding-left: 125px;
+    
+}
+h2{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.card2 img{
+    padding-left: 1000px;
+
+
+}
+.card2 h6{
+    font-size: larger;
+    padding-left: 376px;
+}
+.imgg{
+    display: flex;
+    justify-content: center;
+    gap:100px
+
+}
+.card2 img{
+    padding-left: 200px;
+    height: 300px;
+    width:800px;
+
+
+    
+}
